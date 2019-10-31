@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/JAVA_CORE/array-processing-master" value="PREVIEW" />
+            <entry key="C:/JAVA_CORE/array-tasks-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/conditions-loops-master/conditions-loops-master" value="PREVIEW" />
+            <entry key="D:/src/test-automation-course-2019-java-master" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
